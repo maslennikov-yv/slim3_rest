@@ -1,6 +1,6 @@
 {
-  "name": "MaslennikovYV/slim3_rest",
-  "description": "Example of use PSR-7 rest module https://github.com/MaslennikovYV/rest.git",
+  "name": "maslennikov-yv/slim3_rest",
+  "description": "Example of use PSR-7 rest module maslennikov-yv/rest",
   "keywords": [
     "RESTful",
     "api",
@@ -13,14 +13,14 @@
   "authors": [
     {
       "name": "Yuriy Maslennikov",
-      "email": "MaslennikovYV@gmail.com",
+      "email": "maslennikovyv@gmail.com",
       "role": "Developer"
     }
   ],
   "repositories": [
     {
       "type": "git",
-      "url": "https://github.com/MaslennikovYV/rest.git"
+      "url": "https://github.com/maslennikov-yv/rest.git"
     }
   ],
   "autoload": {
@@ -30,6 +30,6 @@
   },
   "require": {
     "slim/slim": "^3.0",
-    "MaslennikovYV/rest": "dev-master"
+    "maslennikov-yv/rest": "dev-master"
   }
 }
