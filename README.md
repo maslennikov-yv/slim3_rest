@@ -1,9 +1,9 @@
 # slim3_rest
-Example of use PSR-7 rest module https://github.com/MaslennikovYV/rest.git
+Example of use PSR-7 rest module https://github.com/maslennikov-yv/rest.git
 
 # Install:
 
-git clone git@github.com:MaslennikovYV/slim3_rest.git
+git clone git@github.com:maslennikov-yv/slim3_rest.git
 
 cd slim3_rest && composer update
 
