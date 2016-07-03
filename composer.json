@@ -17,12 +17,6 @@
       "role": "Developer"
     }
   ],
-  "repositories": [
-    {
-      "type": "git",
-      "url": "https://github.com/maslennikov-yv/rest.git"
-    }
-  ],
   "autoload": {
     "psr-4": {
       "App\\": "app/src"
